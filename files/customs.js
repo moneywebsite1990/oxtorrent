@@ -7,6 +7,6 @@ button.className = "button";
 
 button.addEventListener("click", function() {
   // Mở URL trong tab mới khi click
-  window.open("https://kmovies.top/oxtorrent/", "_blank");
+  window.open("https://oxtorrent-fr.fr", "_blank");
 });
 document.getElementById("view-full").appendChild(button);
